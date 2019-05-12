@@ -1,2 +1,2 @@
 # abelian_sandpile
-Generate "Abelian Sandpiles"
+Generate "Abelian Sandpiles" https://en.wikipedia.org/wiki/Abelian_sandpile_model
